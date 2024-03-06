@@ -21,7 +21,7 @@ Make sure you have the following prerequisites installed:
 
 Installation
     Clone the repository:
-    git clone https://github.com/your-username/product-app.git
+    git clone https://github.com/yogendranaruka/Productapp.git
     Navigate to the project directory:
 
 
